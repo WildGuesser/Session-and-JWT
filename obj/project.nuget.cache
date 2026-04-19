@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FgbvJyl+VPA=",
+  "dgSpecHash": "v5CvcIQWH7w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugom\\source\\repos\\Forum\\Forum.csproj",
+  "projectFilePath": "C:\\Users\\hugom\\source\\repos\\WildGuesser\\Session-and-JWT\\Forum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hugom\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\10.0.6\\microsoft.aspnetcore.mvc.testing.10.0.6.nupkg.sha512",
     "C:\\Users\\hugom\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",

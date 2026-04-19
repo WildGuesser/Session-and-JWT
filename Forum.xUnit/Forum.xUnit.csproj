@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Forum\Forum.csproj" />
+    <ProjectReference Include="..\Forum.csproj" />
   </ItemGroup>
 
   <ItemGroup>

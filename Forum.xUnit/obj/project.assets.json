@@ -2657,8 +2657,8 @@
     },
     "Forum/1.0.0": {
       "type": "project",
-      "path": "../Forum/Forum.csproj",
-      "msbuildProject": "../Forum/Forum.csproj"
+      "path": "../Forum.csproj",
+      "msbuildProject": "../Forum.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2678,11 +2678,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugom\\source\\repos\\Forum.xUnit\\Forum.xUnit.csproj",
+      "projectUniqueName": "C:\\Users\\hugom\\source\\repos\\WildGuesser\\Session-and-JWT\\Forum.xUnit\\Forum.xUnit.csproj",
       "projectName": "Forum.xUnit",
-      "projectPath": "C:\\Users\\hugom\\source\\repos\\Forum.xUnit\\Forum.xUnit.csproj",
+      "projectPath": "C:\\Users\\hugom\\source\\repos\\WildGuesser\\Session-and-JWT\\Forum.xUnit\\Forum.xUnit.csproj",
       "packagesPath": "C:\\Users\\hugom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugom\\source\\repos\\Forum.xUnit\\obj\\",
+      "outputPath": "C:\\Users\\hugom\\source\\repos\\WildGuesser\\Session-and-JWT\\Forum.xUnit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2704,8 +2704,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\hugom\\source\\repos\\Forum\\Forum.csproj": {
-              "projectPath": "C:\\Users\\hugom\\source\\repos\\Forum\\Forum.csproj"
+            "C:\\Users\\hugom\\source\\repos\\WildGuesser\\Session-and-JWT\\Forum.csproj": {
+              "projectPath": "C:\\Users\\hugom\\source\\repos\\WildGuesser\\Session-and-JWT\\Forum.csproj"
             }
           }
         }

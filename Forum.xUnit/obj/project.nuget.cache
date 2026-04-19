@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HL3h6bTGb6A=",
+  "dgSpecHash": "DpKluXDDx94=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugom\\source\\repos\\Forum.xUnit\\Forum.xUnit.csproj",
+  "projectFilePath": "C:\\Users\\hugom\\source\\repos\\WildGuesser\\Session-and-JWT\\Forum.xUnit\\Forum.xUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hugom\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\hugom\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\10.0.6\\microsoft.aspnetcore.mvc.testing.10.0.6.nupkg.sha512",
