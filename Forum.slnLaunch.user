@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\Forum.xUnit\\Forum.xUnit.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Forum.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

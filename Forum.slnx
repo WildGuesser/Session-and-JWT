@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Forum.xUnit/Forum.xUnit.csproj" Id="a1c72c58-76fe-4c87-a95f-6800dc05a173" />
+  <Project Path="Forum.csproj" />
+</Solution>
