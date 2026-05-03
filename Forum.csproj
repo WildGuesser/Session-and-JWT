@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Forum.xUnit\**" />
+    <Content Remove="Forum.xUnit\**" />
+    <EmbeddedResource Remove="Forum.xUnit\**" />
+    <None Remove="Forum.xUnit\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="10.0.6" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.5" />
     <PackageReference Include="Npgsql" Version="10.0.2" />

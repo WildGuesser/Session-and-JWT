@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Forum.Application.UseCases.Login;
+using Microsoft.AspNetCore.Mvc;
 using Xunit.Sdk;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -39,6 +40,13 @@ namespace Forum.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+        }
+
+        [HttpPost("login")]
+        public async Task<IActionResult> Login([FromBody] LoginInput request)
+        {
+
+            return Ok();
         }
     }
 }
